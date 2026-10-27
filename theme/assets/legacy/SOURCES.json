@@ -1,4 +1,137 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition The Mamluks (exhibitions/ISL/the_mamluks/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash. Legacy drew no Swedish map (map_se.jpg): the map window shows none in Swedish.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/bg_fading_left.gif",
+      "sha256": "0ce0b530204b4b655ff558cf5dd337dc8908eb7252063e61fdcf15b3fedbeb55"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/bg_fading_right.gif",
+      "sha256": "a8a65b2197d62f4506eb51a1e2b3fc036989417cd71d99b91c3d9cf705b65e06"
+    },
+    "theme/assets/legacy/ET-17.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/ET-17.gif",
+      "sha256": "8a732073701f3a8a655e51faa328e1ca4456cc23f5f4abcf6cefe86043f6b768"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/exhibition_bg_ar.jpg",
+      "sha256": "70a3fdd4cd36e9cbd2ba4c66d3e52017d1d8b32972945c9b653c7d7568beff85"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/exhibition_bg.jpg",
+      "sha256": "fee9add8c27b6e30f970c09a869458de333080d0b31a2d7f3a94e365bc99fd32"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/home_bg_ar.jpg",
+      "sha256": "b72f68dc78a89c725590e3715017ee1c0bae715a1d8a65e9ebd5c3532bb860c6"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/home_bg.jpg",
+      "sha256": "a3b5bba71faa3dc553cc9c0c53dc2e57630bb12de4687629430ee30b0211db10"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/intro_bg_ar.jpg",
+      "sha256": "e5901d02632b7d144907146f9b8c68e420d1fa0cd5754cd8241cf0202d91bc36"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/intro_bg.jpg",
+      "sha256": "8a32c16fc9e4d61cd55de776bda561852916f9eab0293315e5d0ac6acfdf5e23"
+    },
+    "theme/assets/legacy/intro_map_thumb.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/intro_map_thumb.jpg",
+      "sha256": "69273af25453746937612b1a0e2e4d554fbd8df1370d9bb615f73cfb08819b6a"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_ar.gif",
+      "sha256": "766eadca4ed017b90fcddace7cb6ea28bbd63489a58b2ee8909848a3dd5883d1"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_de.gif",
+      "sha256": "0d7bbc081a8fec2d7626541b758d32fdcd5bb6cc1a21b603bce191b1ad6fc9b2"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_en.gif",
+      "sha256": "bc1e078283b46e1f661af7d6f234df87725b4128b88b7514af7da50c590fad36"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_es.gif",
+      "sha256": "3ab23b6cae8454f48dacd49a150f959e8825dc5a4705e7a0bca332dc81cab739"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_fr.gif",
+      "sha256": "8e4a7a539da5da84d187cc520c1f1ec19eb97a820636039a9eae822cd7a5c44b"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_it.gif",
+      "sha256": "14491857e979c611d2bfbd19fa3d9290bf06160d43019c54e31a98c23eb286c1"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_pt.gif",
+      "sha256": "8019c98ceb83168c63374a6650a737af47bbcc77def847c6ebec565025bb6450"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/logo_tr.gif",
+      "sha256": "dcf4233ba11b9dc6ad0b1f46135c95fc0a560525dc4544b601ca2b02f7f5279b"
+    },
+    "theme/assets/legacy/map_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_ar.jpg",
+      "sha256": "4dbdb17216bcc5ab7723b41cc6b6a34c31d5c6c2a2a4fc19d13190c239898124"
+    },
+    "theme/assets/legacy/map_de.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_de.jpg",
+      "sha256": "7aa1fd1eddf86334d524ccb7b69bf47138cc0153f8cd391b3a29b1327ee95975"
+    },
+    "theme/assets/legacy/map_en.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_en.jpg",
+      "sha256": "fecac27721fe4f842f01f0073ea1d41263cf46a3d98cc8fa58a3c86c85e05df9"
+    },
+    "theme/assets/legacy/map_es.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_es.jpg",
+      "sha256": "d13a10b0d5b15bb8f01e206399172c204be2b7197efa3c3d08d1ab70fd87e514"
+    },
+    "theme/assets/legacy/map_fr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_fr.jpg",
+      "sha256": "d52778845beb2e85eb9fd7337fb027169727cc2ecfa2407bcd17e6232e0374f2"
+    },
+    "theme/assets/legacy/map_it.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_it.jpg",
+      "sha256": "4bceb4fcead8a2972d998bffe03a8aabc5f3fc4f3ddbb54f3196d6a13cf0b4c1"
+    },
+    "theme/assets/legacy/map_pt.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_pt.jpg",
+      "sha256": "b99ad073b21c9f8dc9f6bb413ed06599ab0c717bc2f7834cf68082f1f5593f53"
+    },
+    "theme/assets/legacy/map_tr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/map_tr.jpg",
+      "sha256": "bd0eae6e5ceaa8669ebb6d02de974e37af10919dfba338e3a2e38431ca5b6f03"
+    },
+    "theme/assets/legacy/NMS-17.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/NMS-17.gif",
+      "sha256": "5c837d581a669a4ad55038736db0eb8e31ea70043039c8180706bb33ee8f9b24"
+    },
+    "theme/assets/legacy/PA-17.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/PA-17.gif",
+      "sha256": "de6084ab5b1a68326d6737e697a73bba82a6967130d296790f6cdfc2f99fb380"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    }
+  }
 }
