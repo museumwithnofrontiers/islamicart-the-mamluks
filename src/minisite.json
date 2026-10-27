@@ -1,6 +1,22 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/the_mamluks/",
   "menuSecondColumnFrom": 7,
-  "curators": [],
-  "maps": 0
+  "curators": [
+    {
+      "partner": "f0c1b6b9-8198-5a97-9aea-8ebedfa90ca3",
+      "logo": "legacy/ET-17.gif",
+      "space": 35
+    },
+    {
+      "partner": "325b7505-1527-5442-99ea-6a40f8c43d3f",
+      "logo": "legacy/PA-17.gif",
+      "space": 35
+    },
+    {
+      "partner": "71715b75-3521-53ee-8c85-91fca0b977d0",
+      "logo": "legacy/NMS-17.gif",
+      "space": 30
+    }
+  ],
+  "maps": 1
 }
